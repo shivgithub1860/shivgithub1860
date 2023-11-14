@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shivgithub1860
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shivprakash Vishwakarma
+- 👀 I’m a Data Analyst
+- 📫 How to reach me shivishwakarma51@gmail.com
 
 <!---
 shivgithub1860/shivgithub1860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
